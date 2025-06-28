@@ -101,6 +101,14 @@ while true; do
 done
 ```
 
+
+Make it executable:
+
+```bash
+chmod +x your_stream-stream.sh
+./your_stream-stream.sh
+```
+
 ### HLS
 ```bash
 ffmpeg \
@@ -165,12 +173,6 @@ ffmpeg \
   -f rtsp rtsp://localhost:8554/your_stream
 ```
 
-Make it executable:
-
-```bash
-chmod +x your_stream-stream.sh
-./your_stream-stream.sh
-```
 
 ---
 
