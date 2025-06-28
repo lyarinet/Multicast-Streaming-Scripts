@@ -109,6 +109,8 @@ chmod +x your_stream-stream.sh
 ./your_stream-stream.sh
 ```
 
+## If Single Stream output
+
 ### HLS
 ```bash
 ffmpeg \
