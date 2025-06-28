@@ -1,4 +1,4 @@
-# Multicast Streaming Script
+# Multicast Streaming Scripts
 
 This guide and script sets up a full pipeline using FFmpeg and MediaMTX to restream a multicast MPEG-TS input as:
 
